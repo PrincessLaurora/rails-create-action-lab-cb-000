@@ -187,7 +187,7 @@ DEPENDENCIES
   factory_bot_rails
   jbuilder (~> 2.0)
   jquery-rails
-  rails (~> 4.2)
+  rails
   rspec-rails
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
